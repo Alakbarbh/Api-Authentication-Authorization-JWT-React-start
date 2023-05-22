@@ -1,0 +1,31 @@
+.image-name{
+  margin-top: 20px;
+  display: flex;
+}
+
+.image img{
+  height: 100px;
+  width: 100px;
+  border-radius: 50%;
+}
+
+.Have{
+  width: 400px;
+}
+
+.Have p{
+  font-size: 13px;
+}
+.name{
+  margin-left: 20px;
+  margin-top: 20px;
+}
+.Education{
+  margin-top: 20px;
+  margin-left: -400px;
+  margin-right: 200px;
+}
+
+
+
+
